@@ -18,7 +18,7 @@ import {
   LayoutDashboard,
 } from "lucide-react";
 
-import logo from "../../../assets/jj logo.png";
+import logo from "../../../assets/dxjlogo.svg";
 import RouteList from "../../../routes/RouteList";
 import { useLocation, useNavigate } from "react-router-dom";
 import { jwtDecode } from "jwt-decode";
